@@ -52,7 +52,7 @@ ehthumbs.db
 
 
 # ============================================================================ #
-# Common Repository Child Directories (inside the project folder not the root) #
+# Common Repository Child Directories                                          #
 # ============================================================================ #
-*/[Bb]uild/
-*/[Bb]uilds/
+/[Bb]uild/
+/[Bb]uilds/
