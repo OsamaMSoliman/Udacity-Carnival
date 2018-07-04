@@ -23,3 +23,10 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Scripts applicable to the course have been updated to reflect Unity's API change from `UnityEngine.VR` to `UnityEngine.XR`.
 
 >**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.100.1, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
+
+
+
+### Student edit:
+1_) I used Unity 2018.1.4
+
+2_) I accidentally uploaded the APK, directory: Udacity-Carnival/Udacity Carnival/Builds/UnityCarnival.apk 
