@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class CarnivalScores : MonoBehaviour {
 
@@ -43,6 +45,8 @@ public class CarnivalScores : MonoBehaviour {
 
 		if (plinkoPoints + wheelPoints + coinPoints >= TeddyBearPointsMin) {
 			TeddyBear.SetActive(true);
+			//OsamaNsr:: starting the coroutine
+			StartCoroutine(ReloadTheCurrentScene());
 		}
 	}
 
@@ -57,4 +61,15 @@ public class CarnivalScores : MonoBehaviour {
 	public void IncrementCoinScore() {
 		coinPoints += 1000;
 	}
+
+	// edit starts
+	//OsamaNsr:: this part makes the level reload after 5 seconds from wining the game
+	//           it's called directly after showing the Teddy Bear 
+	private WaitForSeconds delay = new WaitForSeconds(5f);
+
+	private IEnumerator ReloadTheCurrentScene() {
+		yield return delay;
+		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+	}
+	// edit ends
 }
