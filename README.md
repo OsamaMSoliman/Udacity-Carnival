@@ -31,7 +31,9 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 2_) apk included: Udacity-Carnival/Builds.rar
 
-3_) Screenshots:
+3_) I used [3D Games Effects Pack Free](https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285)
+
+4_) Screenshots:
 ![Screenshot](1.png)
 ![Screenshot](2.png)
 ![Screenshot](3.png)
