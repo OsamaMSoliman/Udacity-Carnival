@@ -29,4 +29,9 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 ### Student edit:
 1_) I used Unity 2018.1.4
 
-2_) I accidentally uploaded the APK, directory: Udacity-Carnival/Udacity Carnival/Builds/UnityCarnival.apk 
+2_) apk included: Udacity-Carnival/Builds.rar
+
+3_) Screenshots:
+![Screenshot](1.png)
+![Screenshot](2.png)
+![Screenshot](3.png)
