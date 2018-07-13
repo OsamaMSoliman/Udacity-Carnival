@@ -27,11 +27,13 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 
 ### Student edit:
-1_) I used Unity 2018.1.4
+1_) I used Unity 2017.4.4
 
-2_) apk included: Udacity-Carnival/Builds.rar
+2_) Build for Android
 
-3_) Screenshots:
+3_) apk included: Udacity-Carnival/Builds.rar
+
+4_) Screenshots:
 ![Screenshot](1.png)
 ![Screenshot](2.png)
 ![Screenshot](3.png)
