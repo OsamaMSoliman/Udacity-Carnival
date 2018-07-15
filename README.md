@@ -39,3 +39,10 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 ![Screenshot](1.png)
 ![Screenshot](2.png)
 ![Screenshot](3.png)
+
+
+<h1><ins>RUBRIC Review</ins>:</h1>
+
+![Screenshot](Rubric_1.PNG)
+![Screenshot](Rubric_2.PNG)
+![Screenshot](Rubric_3.PNG)
